@@ -11,7 +11,7 @@ JsonPowerDB is used to perform CURD operation
 * No need for defining schema 
 * Querying the database is easy there is no need  of knowledge of SQL commands
 
-# TECH STACK USED
+# Technology USED
 * HTML
 * CSS
 * JAVASCRIPT 
